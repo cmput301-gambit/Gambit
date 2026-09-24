@@ -1,4 +1,5 @@
 package com.example.gambit
 
-abstract class Shape(val x: Int, val y: Int, val color: String = "Purple") {
+abstract class Shape(val x: Int, val y: Int, val color: String = "Yellow") {
 }
+
